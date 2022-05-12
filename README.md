@@ -27,11 +27,11 @@
 | 이름      | 역할                                |
 |---------|-----------------------------------|
 | 구예림(팀장) | Deep Learning(YOLO), 데이터 전처리 및 분석 |
-| 윤중열     | Back-End                          |
+| 윤중열     | spring framework, DB설계          |
 | 장강근     | Back-End                          |
 | 김영재     | Deep Learning(YOLO), Flask        |
-| 임혜성     | Front-End 총괄                      |
-| 서명진     | Back-End                          |
+| 임혜성     | Front-End 총괄                    |
+| 서명진     | spring framework, DB설계          |
  
 
 # DB Tables
